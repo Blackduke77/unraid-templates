@@ -9,5 +9,5 @@ The docker containers referenced in this repo point to Docker Containers maintai
 ![alt text](https://github.com/Blackduke77/unraid-templates/blob/main/cronicle/cronicle.png?raw=true "Conicle").
 
   - Docker container maintained at - https://github.com/Blackduke77/cronicle-docker-python 
-  - Custom Chronicle adding support for Python script execution on the master node
+  - Custom Cronicle adding support for Python script execution on the master node
   - A version built from a base of https://github.com/soulteary/docker-cronicle
